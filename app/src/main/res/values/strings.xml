@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PopCat Local Kel3</string>
+    <string name="about_title">Tentang Game</string>
+    <string name="about_message">Versi: %1$s</string>
+    <string name="your_score">Skor Anda: %1$d</string>
+    <string name="time_left">Waktu Tersisa: %1$d detik</string>
+    <string name="game_over_message">Permainan Selesai. Skor Anda: %1$d</string>
+    <string name="result_message">Selamat %1$s telah menyelesaikan game ini. Skor yang kamu peroleh: %2$d</string>
+    <string name="app_description">Game ini adalah game tap tap yang sudah dikembangkan oleh kelompok 3. game ini terinspirasi dari pop cat yang kami tambhkan style kami sendiri yaitu score bar.</string>
+</resources>
